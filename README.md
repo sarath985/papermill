@@ -1,2 +1,0 @@
-# papermill
-Project of moge
